@@ -1,0 +1,38 @@
+
+GOVIA - BASE DE CONHECIMENTO
+
+SERVIÇO:
+Segunda via da certidão de nascimento
+
+OBJETIVO:
+Orientar cidadãos sobre como obter a segunda via
+da certidão de nascimento.
+
+INFORMAÇÕES A CONSULTAR:
+- Onde solicitar o documento.
+- Quais informações são necessárias.
+- Como realizar a solicitação.
+- Se existem custos.
+- Quando é possível solicitar gratuidade.
+- Como acompanhar o pedido.
+
+
+FONTES PARA CONSULTA:
+
+Fonte 1: Portal do Registro Civil
+Site: https://www.registrocivil.org.br/
+Assunto: Solicitação de certidões de registro civil
+Status: Informações detalhadas ainda não verificadas
+
+IMPORTANTE:
+Não informar valores, prazos ou documentos
+obrigatórios sem consultar a fonte correspondente.
+
+
+REGRAS DO ASSISTENTE:
+- Responder apenas com informações fundamentadas.
+- Informar as fontes utilizadas.
+- Não inventar valores, prazos ou procedimentos.
+- Informar quando não houver dados suficientes.
+- Não solicitar dados pessoais sensíveis.
+
